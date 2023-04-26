@@ -9,4 +9,4 @@ while cyfra != 10:
     print(cyfra)
     cyfra += 1
     
-print("Hello word!")
+print("Hello word!") #dodalam komentarz 
