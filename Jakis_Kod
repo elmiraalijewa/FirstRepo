@@ -1,0 +1,12 @@
+#########
+# Jakis kod
+#########
+
+
+cyfra = 0
+
+while cyfra != 10:
+    print(cyfra)
+    cyfra += 1
+    
+print("Hello word!")
