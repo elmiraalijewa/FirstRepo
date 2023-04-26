@@ -10,3 +10,17 @@ while cyfra != 10:
     cyfra += 1
     
 print("Hello word!") #dodalam komentarz 
+
+
+
+def wyznacz_kwadrat(liczba):
+    #####
+    # Funkcja pobiera liczbe i oblicza jej kwadrat
+    #####
+    return liczba**2
+
+print("Wpisz cyfre")
+liczba = int(input())
+obliczony_kwadrat = wyznacz_kwadrat(liczba)
+
+print(obliczony_kwadrat)
